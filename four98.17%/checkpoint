@@ -1,0 +1,6 @@
+model_checkpoint_path: "res_model"
+all_model_checkpoint_paths: "res_model-8000"
+all_model_checkpoint_paths: "res_model-8500"
+all_model_checkpoint_paths: "res_model-9000"
+all_model_checkpoint_paths: "res_model-9500"
+all_model_checkpoint_paths: "res_model"
